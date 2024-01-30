@@ -8,10 +8,25 @@
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["mornius", "git", "github","Api","GitApi","Githup api"],
+  "keywords": [
+    "mornius",
+    "git",
+    "github",
+    "Api",
+    "GitApi",
+    "Githup api"
+  ],
   "author": "gweepcreative",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gweepcreative/mornius.git"
+  },
   "devDependencies": {
     "typescript": "^4.5.2"
+  },
+  "bugs": {
+    "url": "https://github.com/gweepcreative/mornius/issues",
+    "email": "info@rabelcode.net"
   }
 }
